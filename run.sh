@@ -1,0 +1,1 @@
+./sim-cache -config lab_config/512set.cfg tests/bin.little/test-math
